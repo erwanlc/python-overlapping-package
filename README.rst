@@ -1,6 +1,5 @@
-Use proj template::
+Use proj :: 
 
-  $ unzip proj.zip
   $ cd proj
   $ source ~/lab/bin/activate
   (lab)$ pip install -r requirements.txt
